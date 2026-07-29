@@ -11,7 +11,7 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
     <img src="https://img.shields.io/badge/GitHub-FabrMM198-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/fabrício-martins-moura-b75896411">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(www.linkedin.com/in/fabrício-martins-moura-b75896411)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
