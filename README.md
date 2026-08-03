@@ -148,4 +148,4 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
 </p>
 
 ⭐ Sempre aberto para colaborações, parcerias e boas ideias.
-🤝 Obrigado e volte sempre!
+🤝 Obrigado e voltem sempre!
