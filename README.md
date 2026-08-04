@@ -74,6 +74,15 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
 <br clear="left">
 
 ### Frameworks e Bibliotecas
+**<p>Ecossistema JavaScript:</p>**
+<img
+  align="left"
+  alt="Express.js"
+  title="Express.js"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
+/>
 **<p>Ecossistema Python:</p>**
 <img 
   align="left" 
