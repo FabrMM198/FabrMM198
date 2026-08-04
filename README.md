@@ -83,6 +83,8 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
 />
+<br clear="left">
+
 **<p>Ecossistema Python:</p>**
 <img 
   align="left" 
