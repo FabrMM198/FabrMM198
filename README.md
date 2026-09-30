@@ -73,6 +73,16 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
 />           
 <br clear="left">
 
+### Banco de Dados
+<img
+  align="left" 
+  alt="SQL" 
+  title="SQL"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+/>          
+
 ### Frameworks e Bibliotecas
 **<p>Ecossistema JavaScript:</p>**
 <img
@@ -84,8 +94,12 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
 />
 <<<<<<< HEAD
+<<<<<<< HEAD
 <br clear="left">
 =======
+=======
+<br clear="left">
+>>>>>>> f6cf0ae (Atualizacao)
           
 >>>>>>> f891e72 (Atualizacao)
 
@@ -150,6 +164,14 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
   style="padding-right: 10px;"  
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
   />
+<img 
+  align="left" 
+  alt="Jupyter Notebook" 
+  title="Jupyter Notebook"
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
+/>          
 <br clear="left">
 
 ---
@@ -163,8 +185,4 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
 </p>
 
 ⭐ Sempre aberto para colaborações, parcerias e boas ideias.
-<<<<<<< HEAD
 🤝 Obrigado e voltem sempre!
-=======
-🤝 Obrigado e voltem sempre!
->>>>>>> 5cc6c23 (Substitui arquivo antigo pela nova versão)
