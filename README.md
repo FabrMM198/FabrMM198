@@ -83,7 +83,11 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
 />
+<<<<<<< HEAD
 <br clear="left">
+=======
+          
+>>>>>>> f891e72 (Atualizacao)
 
 **<p>Ecossistema Python:</p>**
 <img 
@@ -159,4 +163,8 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
 </p>
 
 ⭐ Sempre aberto para colaborações, parcerias e boas ideias.
+<<<<<<< HEAD
 🤝 Obrigado e voltem sempre!
+=======
+🤝 Obrigado e voltem sempre!
+>>>>>>> 5cc6c23 (Substitui arquivo antigo pela nova versão)
