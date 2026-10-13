@@ -43,7 +43,15 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-  <img
+<img 
+  align="left" 
+  alt="TypeScript" 
+  title="TypeScript"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img
   align="left" 
   alt="React" 
   title="React"    
@@ -206,11 +214,20 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
 
 ## 📌 Projetos em destaque
 
-- **Teste Econverse** — e-commerce em React + TypeScript + Vite + Sass, a partir de layout do Figma: vitrines com carrossel, modal de produto, newsletter com validação e consumo de API.
-- **Previsão de Score de Crédito** — machine learning com Python e Jupyter.
-- **Chatbot Gabriella** — chatbot em Python/Streamlit com a API da OpenAI.
-- **Gerador de sites com IA** — app em Node.js que gera páginas a partir de uma descrição.
-- **Automação de tarefas com Python** — cadastro automatizado de produtos em sistema web.
+### Teste Econverse
+- E-commerce em React + TypeScript + Vite + Sass, a partir de layout do Figma: vitrines com carrossel, modal de produto, newsletter com validação e consumo de API.
+
+### Previsão de Score de Crédito
+- Machine learning com Python e Jupyter.
+
+### Chatbot Gabriella
+- Chatbot em Python/Streamlit com a API da OpenAI.
+
+### Gerador de sites com IA
+- App em Node.js que gera páginas a partir de uma descrição.
+
+### Automação de tarefas com Python
+- Cadastro automatizado de produtos em sistema web.
 
 ---
 
