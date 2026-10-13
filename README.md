@@ -2,7 +2,7 @@
 
 🚀**Desenvolvedor** 🇧🇷 Brasil
 
-Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Informática. Desenvolvo projetos práticos em desenvolvimento web e back-end, aplicando tecnologias como HTML, CSS, JavaScript, PHP, Python e Node.js. Atualmente sou professor de História na rede pública do estado de São Paulo e estou em transição de carreira para a área de Tecnologia.
+Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Informática. Desenvolvo projetos práticos em desenvolvimento web e back-end, aplicando tecnologias como HTML, CSS, JavaScript, TypeScript, React, PHP, Python, Node.js e SQL. Atualmente sou professor de História na rede pública do estado de São Paulo e estou em transição de carreira para a área de Tecnologia.
 
 ## 🌐 Onde me encontrar
 
@@ -43,6 +43,22 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+  <img
+  align="left" 
+  alt="React" 
+  title="React"    
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
+/>
+<img 
+  align="left" 
+  alt="Sass" 
+  title="Sass"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>          
 <br clear="left">
 
 ### Back-end
@@ -54,7 +70,7 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
   width="30px" 
   style="padding-right: 10px;"   
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
-  />
+/>
 <img 
   align="left" 
   alt="Node.js" 
@@ -74,6 +90,7 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
 <br clear="left">
 
 ### Banco de Dados
+
 <img
   align="left" 
   alt="SQL" 
@@ -85,6 +102,7 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
 <br clear="left">
 
 ### Frameworks e Bibliotecas
+
 **<p>Ecossistema JavaScript:</p>**
 <img
   align="left"
@@ -141,6 +159,7 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
 <br clear="left">          
 
 ### Ferramentas
+
 <img 
   align="left" 
   alt="Git" 
@@ -164,8 +183,34 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
   width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
-/>          
+/>
+<img
+  align="left" 
+  alt="Figma"
+  title="Figma"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>        
+<img 
+  align="left" 
+  alt="Vite" 
+  title="Vite"
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
+/>                    
 <br clear="left">
+
+---
+
+## 📌 Projetos em destaque
+
+- **Teste Econverse** — e-commerce em React + TypeScript + Vite + Sass, a partir de layout do Figma: vitrines com carrossel, modal de produto, newsletter com validação e consumo de API.
+- **Previsão de Score de Crédito** — machine learning com Python e Jupyter.
+- **Chatbot Gabriella** — chatbot em Python/Streamlit com a API da OpenAI.
+- **Gerador de sites com IA** — app em Node.js que gera páginas a partir de uma descrição.
+- **Automação de tarefas com Python** — cadastro automatizado de produtos em sistema web.
 
 ---
 
