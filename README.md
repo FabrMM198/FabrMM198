@@ -120,6 +120,14 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" 
 />
+<img
+  align="left"
+  alt="PageFlip"
+  title="PageFlip"
+  widht="30px"
+  style="padding-right: 10px;"
+  src="https://img.shields.io/badge/PageFlip-2.0.7-blue?style=flat-square"
+/>
 <br clear="left">
 
 **<p>Ecossistema Python:</p>**
@@ -138,7 +146,7 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
-/>     
+/>
 
 <img 
   align="left"
@@ -210,24 +218,53 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas, com formação técn
 />
 <br clear="left">
 
+### IA e Dados
+
+<img
+  align="left"
+  alt="OpenAI API" 
+  title="OpenAI API"
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" 
+/>
+<img
+  align="left"
+  alt="Machine Learning" 
+  title="Machine Learning" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://img.icons8.com/?size=100&id=79275&format=png&color=000000" 
+/>
+<br clear="left">
+
 ---
 
 ## 📌 Projetos em destaque
 
 ### Teste Econverse
 - E-commerce em React + TypeScript + Vite + Sass, a partir de layout do Figma: vitrines com carrossel, modal de produto, newsletter com validação e consumo de API.
+- [Código](https://github.com/FabrMM198/teste_econverse)
+
+### Álbum da Liga da Justiça (DC Comics)
+- Álbum de figurinhas interativo com virada realista de páginas, colagem e remoção de figurinhas por clique e navegação por teclado. Feito com HTML, CSS e JavaScript + PageFlip.
+- [Demo](https://fabrmm198.github.io/Album-Liga_da_Justica/) · [Código](https://github.com/FabrMM198/Album-Liga_da_Justica)
 
 ### Previsão de Score de Crédito
-- Machine learning com Python e Jupyter.
+- Modelo de machine learning com Python, Scikit-learn e Jupyter para prever o score de crédito.
+- [Código](https://github.com/FabrMM198/Previsao_Score_Credito)
 
 ### Chatbot Gabriella
 - Chatbot em Python/Streamlit com a API da OpenAI.
+- [Código](https://github.com/FabrMM198/Chatbot_com_IA)
 
 ### Gerador de sites com IA
-- App em Node.js que gera páginas a partir de uma descrição.
+- App em Node.js que envia a descrição do usuário para uma API de IA e gera o código de uma página.
+- [Código](https://github.com/FabrMM198/Gerar_sites_com_IA)
 
 ### Automação de tarefas com Python
-- Cadastro automatizado de produtos em sistema web.
+- Automação de cadastro de produtos em um sistema web pelo navegador, lendo os dados de uma planilha.
+- [Código](https://github.com/FabrMM198/Automocoes-de-tarefas)
 
 ---
 
